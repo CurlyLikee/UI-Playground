@@ -8,8 +8,8 @@ A simple WPF application designed as a home-style desktop.
   - shows percentage value;
   - circular progress ring changes color depending on the charge.
 - Three quick-access buttons:
-  - open the project folder,
   - open the log file,
+  - open the project folder,
   - open notes (Notepad).
 - Additional buttons:
   - open a weather forecast website,
@@ -33,4 +33,5 @@ A simple WPF application designed as a home-style desktop.
 ## Screenshots
 
 Main view of the application:
+
 ![Screenshot](https://github.com/CurlyLikee/UI-Playground/blob/main/screenshot.png)
